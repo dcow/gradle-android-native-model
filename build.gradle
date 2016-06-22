@@ -1,0 +1,6 @@
+repositories {
+    jcenter()
+}
+dependencies {
+    compile 'com.android.tools.build:gradle-experimental:0.7.0'
+}
